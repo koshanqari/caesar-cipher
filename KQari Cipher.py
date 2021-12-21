@@ -52,9 +52,7 @@ while cont == 'yes':
   print(f"Here is your {direction}d text :\n{cipher(text, shift, direction)} ")
   cont = input("\n\nDo you want to continue 'yes' or 'no': ")
 
-commit 1 in dev
 
-commit 2 in the dev 
 
 
 
