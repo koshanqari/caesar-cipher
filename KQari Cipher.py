@@ -52,6 +52,7 @@ while cont == 'yes':
   print(f"Here is your {direction}d text :\n{cipher(text, shift, direction)} ")
   cont = input("\n\nDo you want to continue 'yes' or 'no': ")
 
+#If you find this file useful, do pray for me!
 
 
 
